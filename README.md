@@ -2,10 +2,11 @@
 
 - 👋 Hi, I’m Ovsyannikov Artem
 - 📙 I’m a student VSU
-- 📫 How to reach me: art.ovsyannikovv@gmail.com
 
-## Connect with me
+## How to reach me
 
-- [🛩 Telegram][telegram]
-- [✉️ Email][email]
-- [📄 Resume][resume]
+- [🔗 Telegram][telegram]
+- [📫 EMail][email]
+
+[telegram]: https://t.me/artemmmov
+[email]: mailto:art.ovsyannikovv@gmail.com
