@@ -1,6 +1,6 @@
 ## About
 
-- 👋 Hi, I’m Ovsyannikov Artem
+- 👋 Hi, I’m Artem Ovsyannikov
 - 📙 I’m a student VSU
 
 ## How to reach me
